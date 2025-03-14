@@ -33,7 +33,7 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e eficientes.  T
 *   **[Agenda](https://github.com/lfslDEV/Agenda)**
 
 ## Estatísticas do GitHub 📊
-
+      
 <details>
   <summary>Mostrar mais estatísticas</summary>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lfslDEV&theme=merko" alt="GitHub Streak" />
