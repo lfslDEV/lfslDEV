@@ -1,8 +1,9 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  Olá! Eu sou o Luis Filipe
+  Hi there! I'm Luis Filipe
 </h1>
-<h3 align="center">Desenvolvedor Full Stack | Foco em eficiência, design limpo e soluções inteligentes</h3>
+
+<h3 align="center">Full Stack Developer | Focused on clean code, performance, and smart solutions</h3>
 
 <p align="center">
   <a href="https://instagram.com/lfsl_lipe" target="_blank">
@@ -18,17 +19,17 @@
 
 ---
 
-### 🚀 Sobre Mim
+### 🚀 About Me
 
-Sou um desenvolvedor apaixonado por tecnologia, com foco em desenvolvimento web e automações. Tenho experiência com front-end e back-end, sempre buscando escrever código limpo, escalável e com boas práticas. 
+I'm a passionate developer focused on building efficient and scalable solutions. I have experience with both front-end and back-end development and enjoy turning ideas into real, functional products.
 
-🔍 Curioso por natureza e movido por desafios.  
-🎯 Objetivo: transformar ideias em soluções reais e funcionais.  
-🤝 Aberto a colaborações, freelas e novos projetos.
+🔍 Always curious and ready for challenges.  
+🎯 Goal: Deliver smart, elegant, and well-structured code.  
+🤝 Open to collaborations, freelance projects, and tech conversations.
 
 ---
 
-### 🛠️ Tecnologias que uso no dia a dia
+### 🛠️ Technologies I Use Daily
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40" alt="Vue.js"/>
@@ -40,7 +41,7 @@ Sou um desenvolvedor apaixonado por tecnologia, com foco em desenvolvimento web 
 
 ---
 
-### 📈 Estatísticas GitHub
+### 📈 GitHub Stats
 
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lfslDEV&show_icons=true&theme=merko&count_private=true&hide_rank=true" />
@@ -49,28 +50,28 @@ Sou um desenvolvedor apaixonado por tecnologia, com foco em desenvolvimento web 
 
 ---
 
-### 💼 Projetos em Destaque
+### 💼 Featured Projects
 
-| Projeto | Descrição |
-|--------|------------|
-| 🔧 [**Impressão de Protocolos**](https://github.com/lfslDEV/protocol_printer) | Sistema simples e funcional para impressão de protocolos com base em registros. |
-| 🗓️ [**Agenda**](https://github.com/lfslDEV/Agenda) | Aplicativo para controle de agendamentos, com foco em usabilidade. |
-| 🗺️ [**GeoVass**](https://github.com/lfslDEV/GeoVass.git) | Projeto de georreferenciamento com foco em organização e visualização espacial. |
-
----
-
-### 📌 Em Desenvolvimento
-
-- 🧠 Chatbot para atendimento automatizado
-- 💬 Integração com WhatsApp para vendas
-- 📊 Dashboard de métricas com dados em tempo real
+| Project | Description |
+|--------|-------------|
+| 🔧 [**Protocol Printing**](https://github.com/lfslDEV/protocol_printer) | Simple and functional system for printing records/protocols based on stored entries. |
+| 🗓️ [**Agenda**](https://github.com/lfslDEV/Agenda) | A clean and easy-to-use appointment scheduler. |
+| 🗺️ [**GeoVass**](https://github.com/lfslDEV/GeoVass.git) | Georeferencing project focused on data organization and spatial visualization. |
 
 ---
 
-### 🌐 Vamos nos conectar?
+### 📌 Currently Working On
 
-Se você gostou dos meus projetos ou tem uma ideia bacana pra desenvolver, me chama!  
-> _“A vida nos proporciona evoluções constantes, assim como o meu conhecimento e meus projetos.”_ 😊
+- 🧠 AI chatbot for customer service  
+- 💬 WhatsApp integration for sales automation  
+- 📊 Real-time dashboard for analytics and metrics  
+
+---
+
+### 🌐 Let's Connect
+
+If you liked any of my work or want to build something cool together, feel free to reach out!  
+> _“Life is full of constant evolution — just like my projects and knowledge.”_ 😊
 
 ---
 
