@@ -23,6 +23,9 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e eficientes.  T
     <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
     <img align="center" alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
 </div>
+<div style="display: inline_block"><br>
+<img align="center" alt="Luis-Vue" height="30" width="40" src="https://raw;githubusercontent.com/devicon/master/icons/vue/vue-plain.svg">
+</div>
 <br>
 
 ## Projetos em Destaque ✨
