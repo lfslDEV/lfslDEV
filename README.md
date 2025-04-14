@@ -12,9 +12,6 @@
   <a href="https://twitter.com/lfslDEV" target="_blank">
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
-  </a>
 </p>
 
 ---
