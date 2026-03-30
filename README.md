@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0C8E45&height=200&section=header&text=Luis%20Filipe&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%26%20Mobile%20Developer&descAlignY=56&descSize=20&descColor=d4f5e2" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0C8E45&height=200&section=header&text=Luis%20Filipe&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20and%20Mobile%20Developer&descAlignY=56&descSize=20&descColor=d4f5e2" />
 </p>
 
 <p align="center">
@@ -20,6 +20,7 @@
 ---
 
 ## 👨‍💻 About Me
+
 ```python
 developer = {
     "name":     "Luis Filipe",
@@ -32,12 +33,12 @@ developer = {
 
 Construo produtos do zero — da especificação ao deploy. Não só escrevo código que funciona: escrevo código que **dura**.
 
-Minha abordagem começa pelo **porquê** antes do **como**. Isso se traduz em entregas mais previsíveis, menos retrabalho e sistemas que outras pessoas conseguem entender seis meses depois. Tenho experiência movendo pelo stack completo: interfaces React e React Native, APIs Django, bancos relacionais e integrações em tempo real.
+Minha abordagem começa pelo **porquê** antes do **como**. Isso se traduz em entregas mais previsíveis, menos retrabalho e sistemas que outras pessoas conseguem entender e dar manutenção meses depois. Tenho experiência me movendo por todo o stack: interfaces fluidas com React e React Native, APIs robustas com Django, modelagem de bancos relacionais e integrações em tempo real.
 
-- 🔍 Debugging metódico — resolvo a causa raiz, não o sintoma
-- 📐 Spec-Driven Development — especificação primeiro, menos surpresas na entrega
-- 📱 Web **e** Mobile — React Native para quem precisa de ambos
-- 🤝 Aberto a **freelance**, parcerias técnicas e projetos com impacto real
+- 🔍 **Debugging metódico** — resolvo a causa raiz, não apenas o sintoma.
+- 📐 **Spec-Driven Development** — especificação primeiro, zero surpresas na entrega.
+- 📱 **Web e Mobile** — domínio em React Native para quem precisa de soluções multiplataforma.
+- 🤝 Aberto a **freelance**, parcerias técnicas e projetos com impacto real no negócio.
 
 > *"Bom software é invisível. Você só percebe quando ele falta."*
 
@@ -142,14 +143,14 @@ Minha abordagem começa pelo **porquê** antes do **como**. Isso se traduz em en
   <tr>
     <td width="50%">
       <h3>🖨️ Protocol Printing</h3>
-      <p>Elimina o trabalho manual de emissão de protocolos ao automatizar a geração de documentos a partir de entradas armazenadas — reduzindo erro humano em ambientes com alto volume de registros.</p>
+      <p>Elimina o trabalho manual de emissão de protocolos ao automatizar a geração de documentos a partir de entradas armazenadas — reduzindo significativamente o erro humano em ambientes com alto volume de registros.</p>
       <a href="https://github.com/lfslDEV/protocol_printer">
         <img src="https://img.shields.io/badge/Ver%20Repositório-0C8E45?style=flat-square&logo=github&logoColor=white"/>
       </a>
     </td>
     <td width="50%">
       <h3>🗓️ Agenda</h3>
-      <p>Scheduler leve construído para reduzir o atrito no agendamento — UX pensada para minimizar o número de ações até concluir uma tarefa.</p>
+      <p>Scheduler leve construído com foco absoluto em reduzir o atrito no agendamento — UX pensada estrategicamente para minimizar o número de cliques até a conclusão da tarefa.</p>
       <a href="https://github.com/lfslDEV/Agenda">
         <img src="https://img.shields.io/badge/Ver%20Repositório-0C8E45?style=flat-square&logo=github&logoColor=white"/>
       </a>
@@ -158,14 +159,14 @@ Minha abordagem começa pelo **porquê** antes do **como**. Isso se traduz em en
   <tr>
     <td width="50%">
       <h3>🗺️ GeoVass</h3>
-      <p>Torna dados geográficos acessíveis combinando georreferenciamento e visualização espacial estruturada — decisões mais rápidas onde localização importa.</p>
+      <p>Torna dados geográficos complexos em informações acessíveis, combinando georreferenciamento e visualização espacial estruturada — permitindo decisões mais rápidas e assertivas onde a localização importa.</p>
       <a href="https://github.com/lfslDEV/GeoVass">
         <img src="https://img.shields.io/badge/Ver%20Repositório-0C8E45?style=flat-square&logo=github&logoColor=white"/>
       </a>
     </td>
     <td width="50%">
       <h3>🚧 Em Breve</h3>
-      <p>Novos projetos em construção. Acompanhe a seção abaixo.</p>
+      <p>Novos projetos focados em automação e inteligência artificial em construção. Acompanhe a seção abaixo.</p>
     </td>
   </tr>
 </table>
@@ -176,15 +177,15 @@ Minha abordagem começa pelo **porquê** antes do **como**. Isso se traduz em en
 
 | Projeto | Problema que resolve | Status |
 |---------|----------------------|--------|
-| 🤖 **AI Chatbot para Atendimento** | Reduz tempo de resposta e custo operacional de PMEs com suporte automatizado por IA | `Em desenvolvimento` |
-| 💬 **Automação de Vendas via WhatsApp** | Transforma o WhatsApp num canal de vendas estruturado com qualificação de leads e follow-ups | `Em desenvolvimento` |
-| 📊 **Dashboard de Analytics em Tempo Real** | Entrega visibilidade de KPIs para donos de negócio sem precisar de um time de dados | `Planejamento` |
+| 🤖 **AI Chatbot para Atendimento** | Reduz o tempo de resposta e o custo operacional de PMEs com suporte automatizado e inteligente por IA. | `Em desenvolvimento` |
+| 💬 **Automação de Vendas via WhatsApp** | Transforma o WhatsApp em um funil de vendas estruturado, com qualificação automática de leads e follow-ups. | `Em desenvolvimento` |
+| 📊 **Dashboard de Analytics em Tempo Real** | Entrega visibilidade imediata de KPIs para donos de negócio, sem a necessidade de um time de engenharia de dados. | `Planejamento` |
 
 ---
 
 ## 🤝 Let's Build Something
 
-Se você procura um dev que pensa em **impacto antes de implementação**, que se move pelo stack sem perder qualidade — ou se tem um projeto que precisa sair do papel com solidez técnica — fala comigo.
+Se você procura um desenvolvedor que pensa no **impacto do negócio antes da implementação**, que se move por todo o stack sem perder a qualidade — ou se tem um projeto que precisa sair do papel com solidez técnica —, vamos conversar.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lfslDEV">
