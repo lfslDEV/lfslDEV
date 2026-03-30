@@ -29,7 +29,7 @@
 
 ```python
 developer = {
-    "name":     "Luis Filipe",
+    "name":     "Luis Filipe Soares Lima",
     "stack":    ["JavaScript", "Python", "React", "React Native", "Django", "Tailwind"],
     "database": ["PostgreSQL", "SQLite"],
     "focus":    ["Clean Code", "Spec-Driven Development", "Root Cause Debugging"],
