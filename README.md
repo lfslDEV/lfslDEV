@@ -13,6 +13,12 @@
     <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=lfslDEV&style=for-the-badge&color=0C8E45&label=PROFILE+VIEWS" />
+  <br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lfslDEV/lfslDEV/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lfslDEV/lfslDEV/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lfslDEV/lfslDEV/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 <br/>
@@ -121,18 +127,6 @@ Minha abordagem começa pelo **porquê** antes do **como**. Isso se traduz em en
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lfslDEV&theme=merko&hide_border=true&background=0d1117&ring=0C8E45&fire=0C8E45&currStreakLabel=0C8E45" />
-</p>
-
----
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/lfslDEV/lfslDEV/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lfslDEV/lfslDEV/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lfslDEV/lfslDEV/output/github-contribution-grid-snake.svg" />
-  </picture>
 </p>
 
 ---
