@@ -70,12 +70,6 @@ Over time, I've developed a sharp eye for debugging complex flows (the kind of b
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfslDEV&layout=compact&theme=merko" />
-</p>
-
 ## 💼 Featured Projects
 
 | Project | What it solves |
