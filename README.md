@@ -27,6 +27,7 @@
 
 ## 👨‍💻 About Me
 
+```python
 developer = {
     "name":     "Luis Filipe",
     "stack":    ["JavaScript", "Python", "React", "React Native", "Django", "Tailwind"],
@@ -34,6 +35,7 @@ developer = {
     "focus":    ["Clean Code", "Spec-Driven Development", "Root Cause Debugging"],
     "open_to":  ["Freelance", "Collabs", "Full-time"],
 }
+```
 
 
 Construo produtos do zero — da especificação ao deploy. Não só escrevo código que funciona: escrevo código que **dura**.
