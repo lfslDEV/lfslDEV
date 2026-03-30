@@ -70,14 +70,12 @@ Over time, I've developed a sharp eye for debugging complex flows (the kind of b
 
 ---
 
-## 📈 GitHub Stats
+### 📈 GitHub Stats
 
-<p align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=lfslDEV&show_icons=true&theme=merko&count_private=true&hide_rank=false&include_all_commits=true" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfslDEV&layout=compact&theme=merko&langs_count=8" />
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lfslDEV&show_icons=true&theme=merko&count_private=true&hide_rank=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfslDEV&layout=compact&theme=merko" />
 </p>
-
----
 
 ## 💼 Featured Projects
 
