@@ -22,7 +22,7 @@
 ## 👨‍💻 About Me
 ```python
 developer = {
-    "name":     "Luis Filipe Soares Lima",
+    "name":     "Luis Filipe",
     "stack":    ["JavaScript", "Python", "React", "React Native", "Django", "Tailwind"],
     "database": ["PostgreSQL", "SQLite"],
     "focus":    ["Clean Code", "Spec-Driven Development", "Root Cause Debugging"],
