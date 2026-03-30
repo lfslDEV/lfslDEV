@@ -1,78 +1,111 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  Hi there! I'm Luis Filipe
-</h1>
-
-<h3 align="center">Full Stack Developer | Focused on clean code, performance, and smart solutions</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0C8E45&height=160&section=header&text=Luis%20Filipe&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%7C%20Mobile%20%7C%20Clean%20Code%20Advocate&descAlignY=58&descSize=18" />
+</p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/lfslDEV" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
   <a href="https://instagram.com/lfsl_lipe" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
   </a>
   <a href="https://twitter.com/lfslDEV" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />
+    <img alt="Twitter/X" src="https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white" />
   </a>
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=lfslDEV&style=flat-square&color=0C8E45" />
 </p>
 
 ---
 
-### 🚀 About Me
+## 🧠 About Me
 
-I'm a passionate developer focused on building efficient and scalable solutions. I have experience with both front-end and back-end development and enjoy turning ideas into real, functional products.
+I'm a Full Stack Developer who builds products that actually solve problems — not just write code that compiles.
 
-🔍 Always curious and ready for challenges.  
-🎯 Goal: Deliver smart, elegant, and well-structured code.  
-🤝 Open to collaborations, freelance projects, and tech conversations.
+My approach goes beyond syntax: I care about **why** a feature exists before deciding **how** to build it. That means working closely with specs, thinking about the user before the component, and making sure the system is maintainable six months from now — not just today.
+
+Over time, I've developed a sharp eye for debugging complex flows (the kind of bugs that only appear in production at 2am), and I've grown comfortable moving across the stack: from React web to React Native mobile, from REST APIs to real-time integrations.
+
+- 🏗️ Currently building AI-driven tools for customer service and sales automation
+- 📐 Believer in **spec-driven development** — the fewer the surprises, the better the delivery
+- 🔍 Strong debugging mindset: I don't just fix the symptom, I find the root cause
+- 🤝 Open to **freelance projects**, technical partnerships, and product conversations
+
+> *"Good software is invisible. You only notice it when it's missing."*
 
 ---
 
-### 🛠️ Technologies I Use Daily
+## 🛠️ Tech Stack
+
+### Languages & Frameworks
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
-  
-
-  
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
----
-
-### 📈 GitHub Stats
+### Frontend & Mobile
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lfslDEV&show_icons=true&theme=merko&count_private=true&hide_rank=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfslDEV&layout=compact&theme=merko" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+</p>
+
+### Backend, Infra & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+### Core Practices
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Spec--Driven%20Development-0C8E45?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Debugging%20%26%20Root%20Cause%20Analysis-2D2D2D?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clean%20Code-4A90E2?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Performance%20Optimization-FF6B35?style=flat-square&logoColor=white" />
 </p>
 
 ---
 
-### 💼 Featured Projects
+## 📈 GitHub Stats
 
-| Project | Description |
-|--------|-------------|
-| 🔧 [**Protocol Printing**](https://github.com/lfslDEV/protocol_printer) | Simple and functional system for printing records/protocols based on stored entries. |
-| 🗓️ [**Agenda**](https://github.com/lfslDEV/Agenda) | A clean and easy-to-use appointment scheduler. |
-| 🗺️ [**GeoVass**](https://github.com/lfslDEV/GeoVass.git) | Georeferencing project focused on data organization and spatial visualization. |
-
----
-
-### 📌 Currently Working On
-
-- 🧠 AI chatbot for customer service  
-- 💬 WhatsApp integration for sales automation  
-- 📊 Real-time dashboard for analytics and metrics  
+<p align="center">
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=lfslDEV&show_icons=true&theme=merko&count_private=true&hide_rank=false&include_all_commits=true" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfslDEV&layout=compact&theme=merko&langs_count=8" />
+</p>
 
 ---
 
-### 🌐 Let's Connect
+## 💼 Featured Projects
 
-If you liked any of my work or want to build something cool together, feel free to reach out!  
-> _“Life is full of constant evolution — just like my projects and knowledge.”_ 😊
+| Project | What it solves |
+|--------|----------------|
+| 🖨️ [**Protocol Printing**](https://github.com/lfslDEV/protocol_printer) | Eliminates manual record-keeping by automating protocol generation from stored data — reducing human error in environments where paperwork volume is high. |
+| 🗓️ [**Agenda**](https://github.com/lfslDEV/Agenda) | A lightweight scheduler built to cut the friction of appointment management, with a clean UX designed to minimize user actions per task. |
+| 🗺️ [**GeoVass**](https://github.com/lfslDEV/GeoVass.git) | Tackles the challenge of making geographic data accessible — combining georeferencing with structured data visualization for faster spatial decision-making. |
+
+---
+
+## 🚧 Currently Building
+
+| Project | What's the goal |
+|---------|-----------------|
+| 🤖 **AI Customer Service Chatbot** | Reduce response time and operational cost for SMBs by automating first-line support with context-aware AI conversations. |
+| 💬 **WhatsApp Sales Automation** | Turn WhatsApp into a structured sales channel — integrating CRM logic, lead qualification, and follow-up flows. |
+| 📊 **Real-Time Analytics Dashboard** | Give business owners a live pulse on their KPIs without needing a data team to interpret the numbers. |
+
+---
+
+## 🌐 Let's Build Something
+
+If you're looking for a developer who thinks about **impact before implementation** — or if you have a project that needs someone who can move across the full stack without losing quality — let's talk.
+
+📬 Reach me through any channel above, or open an issue in any of my repos. I always respond.
 
 ---
 
