@@ -123,7 +123,6 @@ Minha abordagem começa pelo **porquê** antes do **como**. Isso se traduz em en
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lfslDEV&show_icons=true&theme=merko&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfslDEV&layout=compact&theme=merko&hide_border=true&bg_color=0d1117&langs_count=8" />
 </p>
 
 <p align="center">
